@@ -12,33 +12,33 @@ If you want to use get data function, please install futu api. The instrcution c
 
 You can adjust the volatility value to get the higher profir. Be careful if the volality is over 80.<br/>
 
-Let's see the output:<br/><br/>
+Let's see the output:<br/>
 
 Initial Capital: $ 1,000,000 <br/>
 
 Maximum Sharpe Ratio Portfolio Allocation
 
-Annualised Return: 0.73
+Annualised Return: 0.73<br/>
 Annualised Volatility: 0.32
 
-HK.02313  HK.00700  HK.01093  HK.00823  HK.02318
+HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 40.28     18.83     11.43     29.33      0.13 
 
-<br/><br/>
+<br/>
 Minimum Volatility Portfolio Allocation
 
-Annualised Return: 0.56
+Annualised Return: 0.56<br/>
 Annualised Volatility: 0.28
 
-HK.02313  HK.00700  HK.01093  HK.00823  HK.02318
+HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 9.83     16.85     16.06     53.17      4.08
-<br/><br/>
+<br/>
 
 Output<br/>
          HK.00700  HK.00823  HK.01093  HK.02313  HK.02318
 Changes  0.993902 -0.073807  0.427693  0.852524  0.381818
 
-<br/><br/>
+<br/>
 Yearly Return in Money:<br/>
                       HK.02313  HK.00700  HK.01093  HK.00823  HK.02318
 Maximum Shaper Ratio    343396    187151     48885    -21648       496
