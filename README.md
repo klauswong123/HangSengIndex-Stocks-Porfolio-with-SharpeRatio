@@ -56,13 +56,13 @@ Output<br/>
 
 <br/>
 Yearly Return in Money:<br/>
-| StockCode | Maximum Shaper Ratio | Minimum Volatility |
-| --- | --- | --- |
-| `HK.02313` | 343396 | 83803 |
-| `HK.00700` | 187151 | 167472 |
-| `HK.01093` | 48885 | 68687 |
-| `HK.00823` | -21648 | -39244 |
-| `HK.02318` | 496 | -39244 |
+| StockCode | Maximum Shaper Ratio |
+| --- | --- |
+| `HK.02313` | 343396 |
+| `HK.00700` | 187151 |
+| `HK.01093` | 48885 |
+| `HK.00823` | -21648 |
+| `HK.02318` | 496 |
 <br/><br/>
 Final Capital:<br/>
 Max Shaper Ratio: 2116565.068493047<br/>
