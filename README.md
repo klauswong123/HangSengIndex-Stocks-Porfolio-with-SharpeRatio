@@ -22,6 +22,9 @@ Annualised Return: 0.73<br/>
 Annualised Volatility: 0.32
 HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 40.28     18.83     11.43     29.33      0.13 
+| Stock Code | HK.02313 | HK.00700 | HK.01093 | HK.00823 | HK.02318
+| --- | --- |
+| Rate | 40.28 |  18.83 | 11.43 | 29.33 | 0.13 | <br/>
 
 <br/>
 Minimum Volatility Portfolio Allocation
