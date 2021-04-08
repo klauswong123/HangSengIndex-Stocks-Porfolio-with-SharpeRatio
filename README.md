@@ -22,7 +22,7 @@ Maximum Sharpe Ratio Portfolio Allocation
 
 Annualised Return: 0.73<br/>
 Annualised Volatility: 0.32
-| StockCode | Rate |
+| StockCode | Ratio |
 | --- | --- |
 | `HK.02313` | 40.28 |
 | `HK.00700` | 18.83 |
@@ -36,21 +36,35 @@ Minimum Volatility Portfolio Allocation
 
 Annualised Return: 0.56<br/>
 Annualised Volatility: 0.28
-HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
-9.83     16.85     16.06     53.17      4.08
+| StockCode | Ratio |
+| --- | --- |
+| `HK.02313` | 9.83 |
+| `HK.00700` | 16.85 |
+| `HK.01093` | 16.06 |
+| `HK.00823` | 53.17 |
+| `HK.02318` | 4.08 |
 <br/>
 
 Output<br/>
-         HK.00700  HK.00823  HK.01093  HK.02313  HK.02318<br/>
-Changes  0.993902 -0.073807  0.427693  0.852524  0.381818
+| StockCode | Annual Return |
+| --- | --- |
+| `HK.02313` | 0.381818 |
+| `HK.00700` | 0.993902 |
+| `HK.01093` | 0.427693 |
+| `HK.00823` | -0.073807 |
+| `HK.02318` | 0.852524 |
 
 <br/>
 Yearly Return in Money:<br/>
-Stock Code:             HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
-Maximum Shaper Ratio    343396    187151     48885    -21648       496<br/>
-Minimum Volatility       83803    167472     68687    -39244     15578
+| StockCode | Maximum Shaper Ratio | Minimum Volatility |
+| --- | --- | --- |
+| `HK.02313` | 343396 | 83803 |
+| `HK.00700` | 187151 | 167472 |
+| `HK.01093` | 48885 | 68687 |
+| `HK.00823` | -21648 | -39244 |
+| `HK.02318` | 496 | -39244 |
 <br/><br/>
 Final Capital:<br/>
-Max Shaper Ratio: 2116565.068493047
+Max Shaper Ratio: 2116565.068493047<br/>
 Min Shaper Ratio: 1592596.0715312362
 
