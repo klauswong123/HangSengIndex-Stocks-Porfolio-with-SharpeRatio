@@ -20,7 +20,6 @@ Maximum Sharpe Ratio Portfolio Allocation
 
 Annualised Return: 0.73<br/>
 Annualised Volatility: 0.32
-
 HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 40.28     18.83     11.43     29.33      0.13 
 
@@ -29,7 +28,6 @@ Minimum Volatility Portfolio Allocation
 
 Annualised Return: 0.56<br/>
 Annualised Volatility: 0.28
-
 HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 9.83     16.85     16.06     53.17      4.08
 <br/>
