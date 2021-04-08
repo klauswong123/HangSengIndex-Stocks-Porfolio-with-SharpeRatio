@@ -1,7 +1,7 @@
 # HangSengIndex Stocks Porfolio with SharpeRatio
  A portfolio which its aunual return around 73%. Get all stocks data of Hang Seng Index. Select 5 stocks by annual return and volatility. Use Sharpe Ratio to find the final portfolio. This program use stock data from 2015-2019 for stocks selection. And the test outcome is made by 2020-current data. Feel free to share your strategy. <br/>
  
- Language: <h5>Python 3.7</h5><br/><br/>
+ Language: Python 3.7<br/><br/>
  Package: matplotlib,
           pandas,
           numpy,
@@ -40,7 +40,7 @@ Changes  0.993902 -0.073807  0.427693  0.852524  0.381818
 
 <br/>
 Yearly Return in Money:<br/>
-                      HK.02313  HK.00700  HK.01093  HK.00823  HK.02318
+                      HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
 Maximum Shaper Ratio    343396    187151     48885    -21648       496
 Minimum Volatility       83803    167472     68687    -39244     15578
 <br/><br/>
