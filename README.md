@@ -38,8 +38,8 @@ Changes  0.993902 -0.073807  0.427693  0.852524  0.381818
 
 <br/>
 Yearly Return in Money:<br/>
-                      HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
-Maximum Shaper Ratio    343396    187151     48885    -21648       496
+Stock Code:             HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
+Maximum Shaper Ratio    343396    187151     48885    -21648       496<br/>
 Minimum Volatility       83803    167472     68687    -39244     15578
 <br/><br/>
 Final Capital:<br/>
