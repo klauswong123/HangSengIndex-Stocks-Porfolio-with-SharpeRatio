@@ -16,21 +16,20 @@ Let's see the output:<br/>
 
 Initial Capital: $ 1,000,000 <br/>
 
-| StockCode | HK.02313 |
-| --- | --- |
-| `Rate` | 40.28 |
-| `git diff` | Show file differences that **haven't been** staged |
 
 
 Maximum Sharpe Ratio Portfolio Allocation
 
 Annualised Return: 0.73<br/>
 Annualised Volatility: 0.32
-HK.02313  HK.00700  HK.01093  HK.00823  HK.02318<br/>
-40.28     18.83     11.43     29.33      0.13 
-| StockCode | HK.02313 | HK.00700 | HK.01093 | HK.00823 | HK.02318
+| StockCode | Rate |
 | --- | --- |
-| Rate | 40.28 |  18.83 | 11.43 | 29.33 | 0.13 | <br/>
+| `HK.02313` | 40.28 |
+| `HK.00700` | 18.83 |
+| `HK.01093` | 11.43 |
+| `HK.00823` | 29.33 |
+| `HK.02318` | 0.13 |
+<br/>
 
 <br/>
 Minimum Volatility Portfolio Allocation
